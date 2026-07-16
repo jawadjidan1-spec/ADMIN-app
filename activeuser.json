@@ -1,1 +1,19 @@
+[
+    {
+        "device_id": "0d74782aa7d82329",
+        "username": "user1",
+        "password": "HACK123",
+        "expirydate": "18-7-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "a64501e79b58cf6f",
+        "username": "user1",
+        "password": "HACK123",
+        "expirydate": "18-7-2026",
+        "Allowoffline": true
+    }
+    
+]
+
 
